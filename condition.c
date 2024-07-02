@@ -1,5 +1,5 @@
 ﻿#include <stdio.h>
-int main_condition(void)
+int main(void)
 {
 	//Distinguish between student rates and regular rates.
 	/*int age ;
@@ -65,7 +65,7 @@ int main_condition(void)
 	// 
 // and(&&)  or(||)
 
-	/*int a = 10;
+	int a = 10;
 	int b = 12;
 	int c = 13;
 	int d = 14;
@@ -76,7 +76,7 @@ int main_condition(void)
 	else	
 	{
 	    printf("The nummber are different.");
-	}*/
+	}
 
 
 	
