@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main_printscanf(void)
+int main(void)
 {
 	/*int age = 12;
 	printf("%d\n", age);
@@ -76,7 +76,7 @@ int main_printscanf(void)
 	
 	
 	double height;
-	printf("\nWie groﬂ sind Sie?\n");
+	printf("\nWie gro√ü sind Sie?\n");
 	scanf_s("%lf", &height);
 
  
