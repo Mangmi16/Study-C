@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main_loop(void)
+int main(void)
 {
 
 	// ++ 
@@ -61,7 +61,7 @@ int main_loop(void)
 
 	}*/
 
-	// For Loop Übung1 (x * x) 
+	// For Loop Ãœbung1 (x * x) 
 
 	/*for (int i = 2; i <= 9; i++)
 	{
@@ -73,7 +73,7 @@ int main_loop(void)
 	}*/
 
 
-	//For Loop Übung2
+	//For Loop Ãœbung2
 	/* *
 	   **
 	   ***
@@ -89,7 +89,7 @@ int main_loop(void)
 		   printf("\n");
 		   }*/
 
-		   /*  For Loop Übung3
+		   /*  For Loop Ãœbung3
 				  *
 				 **
 				***
