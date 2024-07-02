@@ -112,12 +112,11 @@ int main(void)
 			   }*/
 
 			   //
-			   /*  *
-				  ***
-				 ******
-				********
-			   **********
-			   */
+	 /*  *
+	    ***
+	   ******
+	  ********
+	 ********** */
 	int floor;
 	printf("How many floors will you build?");
 	scanf_s("%d", &floor);
