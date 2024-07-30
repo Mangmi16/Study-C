@@ -24,7 +24,7 @@ int main(void)
 		int isIncluded = 0; // Does it contain hair growth agents?
 		printf("> %dth attempt Apply ", i);
 
-		//Select the color of bottle to show
+		//Select the nummber of bottle to show
 		for (int j = 0; j < conShowBottele; j++)
 		{
 			int randBottle = rand() % 4; //0~3
