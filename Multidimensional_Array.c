@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main_Mulidimensional_Array(void)
+int main(void)
 {
 	//Mulidimensional Array
 
