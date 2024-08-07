@@ -20,7 +20,7 @@ typedef struct GameInfomation //Can be erased
     struct GameInfo* friendGame;//Related companies
 }GAME_INFO;
 
-int main_stuct(void)
+int main(void)
 {
 
     //Game name
