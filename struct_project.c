@@ -8,7 +8,7 @@ typedef struct {
 	int level;
 }CAT;
 
-//현재까지 보유한 고양이
+//Cats owned so far
 int collection[5] = { 0,0,0,0,0 };
 
 CAT cats[5];
